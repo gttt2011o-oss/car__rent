@@ -1,0 +1,27 @@
+*{font-family:"Poppins",sans-serif
+}
+a{
+  text-decoration: none;
+color: #000; 
+}
+
+body{
+  margin:0;
+}
+.container{
+max-width: 1200px;
+width: 100%;
+margin: 0 auto;
+border: 1px solid red
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+p{
+  margin: 0;
+}
+
+section {
+  margin-bottom: 180px;
+}
